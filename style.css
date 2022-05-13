@@ -1,0 +1,34 @@
+*{
+    box-sizing: boarder-box;
+}   
+body, html {
+    height: 100%;
+    width:100%;
+    background-color: #bdc667ff;
+    text-align:center;
+    color: #56282dff;
+    font-weight: bold;  
+}
+
+.very-cool-p-tag {
+    color:#544343ff;
+    /* transform: rotate(5deg); */
+}
+.super-cool-image-block{
+    background-color: #707d64ff;
+    font-size: 2rem;
+}
+#unique-div{
+    font-size:larger
+    padding: 50px;
+    border: solid 5px #544343ff;
+    margin: 50 px;
+    
+
+}
+/* SCSS HEX */
+$middle-green-yellow: #bdc667ff;
+$russian-green: #77966dff;
+$xanadu: #707d64ff;
+$dark-liver-horses: #544343ff;
+$caput-mortuum: #56282dff;
